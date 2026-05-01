@@ -1,3 +1,7 @@
+let userscore = 0;
+let compscore = 0;
+
+
 const choices = document.querySelectorAll(".choice");
 
 const msg = document.querySelector("#msg");
@@ -66,9 +70,7 @@ choices.forEach((choice)=>{
 
 
 
-// score track karne ke liye variable--------------------------------
-let userscore = 0;
-let compscore = 0;
+
 
 
 
