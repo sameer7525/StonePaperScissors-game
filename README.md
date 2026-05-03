@@ -16,5 +16,9 @@ This is a simple and fun **Stone Paper Scissors** game built using:
 3. Result will be displayed instantly
 
 
+## 🌐 Live Demo
+
+https://sameer7525.github.io/StonePaperScissors-game/
+
 ## Author
 Sameer Maurya
