@@ -14,7 +14,10 @@ This is a simple and fun **Stone Paper Scissors** game built using:
 1. Click on Stone, Paper, or Scissors
 2. Computer will choose automatically
 3. Result will be displayed instantly
+   
 
+## Screenshot
+![Game Screenshot](images/Screenshot.png)
 
 ## 🌐 Live Demo
 
